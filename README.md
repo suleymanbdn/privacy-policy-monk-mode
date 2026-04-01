@@ -10,7 +10,7 @@ This repository hosts the public privacy policy for **Monk Mode**.
 
 Your policy will be available at:
 
-`https://<your-username>.github.io/privacy-policy-monk-mode/privacy-policy.html`
+`https://suleymanbdn.github.io/privacy-policy-monk-mode/privacy-policy.html`
 
 ## Local file
 
